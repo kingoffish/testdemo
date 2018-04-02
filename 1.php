@@ -1,5 +1,5 @@
 <?php
 
-# step 1  提交代码
+# step 1  鎻愪氦浠ｇ爜
 
-# step 2  创建分支
+# step 2  鍒涘缓鍒嗘敮
