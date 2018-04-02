@@ -3,4 +3,4 @@ echo $string = "git branch";
 
 echo $new = "king";
 
-echo $branch = "name";
+echo $branch = "1.0.2";
